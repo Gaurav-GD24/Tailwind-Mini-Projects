@@ -14,6 +14,7 @@ This project showcases a responsive product model designed with Tailwind CSS. Th
 ![Email Subscribe Form Screenshot](./images/product-modal.png)
 The model ensures an engaging and interactive user experience through thoughtful use of hover effects and transitions. Micro interactions are used throughout the design to enhance customer engagement. These small, subtle animations and transitions provide feedback and improve the overall user experience. In the world of website development, incorporating micro interactions is crucial for creating a dynamic and user-friendly interface.
 
+[Visit Live Site](https://product-page-gaming-headset.netlify.app/)
 
 
 ### Key Components
